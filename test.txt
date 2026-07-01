@@ -1,2 +1,2 @@
 Hello SVN
-Hello from hotby
+Hello word
